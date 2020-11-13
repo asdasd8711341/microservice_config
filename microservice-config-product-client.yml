@@ -72,7 +72,6 @@ spring:
 logging:
   level:
     com.gsn.springcloud1_2: debug
-    org.springframework.security: debug
 
 eureka:
   client: # 客户端进行Eureka注册的配置
