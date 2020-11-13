@@ -89,8 +89,6 @@ info:
   company.name: gsn
   build.artifactId: $project.artifactId$
   build.modelVersion: $project.modelVersion$
-  build.version: $project.version$
-  jdk.version: $java.version$
 
 management:
   endpoints:
