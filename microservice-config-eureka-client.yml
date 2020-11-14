@@ -33,7 +33,7 @@ eureka:
     enable-self-preservation: false #设置为false表示关闭保护模式
   client:
     fetch-registry: false
-    register-with-eureka: false
+    register-with-eureka: true
     service-url:
         defaultZone: http://admin:a@localhost:7301/eureka
   instance: # eureak实例定义
