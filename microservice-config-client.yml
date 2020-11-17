@@ -15,6 +15,10 @@ eureka:
  client:
   service-url:
     defaultZone: http://admin:a@localhost:7301/eureka
+
+info:
+  app:
+    name: microconfig-test-client
 ---
 server:
   port: 8102
