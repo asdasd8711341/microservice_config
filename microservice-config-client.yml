@@ -22,8 +22,8 @@ eureka:
     defaultZone: http://admin:a@localhost:7301/eureka
 
 info:
-  app.name: microconfig-test-client111
-  company.name: gsng
+  app.name: microconfig-test-client11122222
+  company.name: gsnggggg
 ---
 server:
   port: 8102
